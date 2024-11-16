@@ -1,1 +1,1 @@
-This will contain the mid-term assignments of Computer Vision and Pattern Recognition (CVPR) course.
+This contains the mid-term assignments for the Computer Vision and Pattern Recognition (CVPR) course.
